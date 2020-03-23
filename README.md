@@ -1,6 +1,6 @@
 # stv
 
-'A new Flutter project. Created by Slidy'
+'Sistema Séries de TV'
 
 ## Getting Started
 
