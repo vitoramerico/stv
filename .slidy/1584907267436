@@ -1,0 +1,5 @@
+lib/app/home/modules/details/details_module.dart
+lib/app/home/modules/details/details_page.dart
+test/app/home/modules/details/details_page_test.dart
+lib/app/home/modules/details/details_controller.dart
+test/app/home/modules/details/details_controller_test.dart
